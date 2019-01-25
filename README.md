@@ -1,4 +1,4 @@
-# Learning Python for Data Analysis - Titanic Project
+# Portfolio - Titanic Project
 This project is part of the "Learning Python for Data Analysis" course I enrolled in.
 
 The purpose of this project was to answer the following 4 questions:
